@@ -316,3 +316,14 @@ body .card .play-list .track .track-duration {
             transform: rotate(360deg);
   }
 }
+
+@media (min-width: 700px) {
+  
+  body{
+
+    width:100%;
+    height:100%;
+  }
+   
+
+ }
