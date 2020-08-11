@@ -17,17 +17,9 @@ html, body, #root{
 }
 
 
-.container{
-   width: 90vw;
-   max-width: 700px;
-}
-
-
-
-
 body .card {
  
-  max-width: 371px;
+ 
   padding: 0 5px;
   margin-top: 40px;
   border-radius: 20px;
