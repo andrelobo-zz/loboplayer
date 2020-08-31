@@ -1,8 +1,7 @@
 
  * {
   margin:0;
-  padding:0;
-  box-sizing: border-box;
+  
 }
 html, body, #root{
   height:50vh;
@@ -25,7 +24,7 @@ body .card {
   margin-top: 40px;
   border-radius: 20px;
   color: #fff;
-  font-weight: 100;
+  font-weight: 500;
   box-shadow: 0px 0px 70px 0px #274684;
   background: #071739;
   overflow: hidden;
@@ -184,7 +183,7 @@ body .card .play-list {
   -webkit-box-direction: normal;
           flex-direction: column;
   padding: 10px;
-  height: 180px;
+  height: 400px;
   overflow-y: scroll;
 }
 body .card .play-list .track {
