@@ -21,7 +21,7 @@ body .card {
   padding: 0 5px;
   margin-top: 40px;
   border-radius: 20px;
-  color: #fff;
+  color: chartreuse;
   font-weight: 500;
   box-shadow: 0px 0px 70px 0px #274684;
   background: #071739;
@@ -121,7 +121,7 @@ body .card .current-song #timeline .hover-playhead::before {
   width: 80px;
   padding: 3px;
   text-align: center;
-  color: white;
+  color: chartreuse;
   background: #274684;
   border-radius: calc( 20px - 12px);
 }
