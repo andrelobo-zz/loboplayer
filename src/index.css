@@ -310,7 +310,7 @@ body .card .play-list .track .track-duration {
   }
 }
 
-@media (max-width: 700px) {
+@media (min-width: 700px) {
   
   body{
 
