@@ -339,6 +339,7 @@ body .card .play-list .track .track-duration {
     body .card .current-song .controls button {
     
       font-size: 80px;
+      margin:30px;
         }
 }
 }
