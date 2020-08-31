@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 html, body, #root{
-  height:100vh;
+  height:50vh;
 }
 
 #root {
@@ -41,7 +41,7 @@ body .card .current-song {
   padding: 20px 0px;
   border-radius: 20px;
   color: #071739;
-  background: #fff;
+  background: red;
 }
 body .card .current-song audio {
   display: none;
