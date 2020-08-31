@@ -316,13 +316,9 @@ body .card .play-list .track .track-duration {
     height:100%;
   }
 
-  @media (max-width: 700px) {
-  
-  
     body .card .current-song .controls button {
     
       font-size: 80px;
       margin:30px;
         }
-}
-}
+      }
