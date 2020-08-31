@@ -19,7 +19,7 @@ body .card {
  width:100%;
  
   padding: 0 5px;
-  margin-top: 40px;
+ 
   border-radius: 20px;
   color: chartreuse;
   font-weight: 500;
@@ -142,8 +142,8 @@ body .card .current-song .controls {
 body .card .current-song .controls button {
   color: chartreuse;
   border-radius: 50%;
-  margin:  15px;
-  font-size: 40px;
+  margin:  30px;
+  font-size: 65px;
   text-align: center;
   -webkit-transition: 0.2s;
   transition: 0.2s;
@@ -288,12 +288,4 @@ body .card .play-list .track .track-duration {
 
 
 
-@media (max-width: 300px) {
-  
- 
-    body .card .current-song .controls button {
-    
-      font-size: 80px;
-      margin:50px;
-        }
-      }
+
