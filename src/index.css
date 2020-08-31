@@ -78,8 +78,8 @@ body .card .current-song .time {
 body .card .current-song #timeline {
   position: relative;
   margin: 0 auto;
-  width: 240px;
-  height: 5px;
+  width: 480px;
+  height: 10px;
   background: #709fdc;
   border-radius: 5px;
   cursor: pointer;
