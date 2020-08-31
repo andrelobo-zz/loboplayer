@@ -310,7 +310,7 @@ body .card .play-list .track .track-duration {
   }
 }
 
-@media (min-width: 920px) {
+@media (max-width: 700px) {
   
   body{
 
@@ -318,7 +318,8 @@ body .card .play-list .track .track-duration {
     height:100%;
   }
 
-body .card .current-song .controls button {
+  body .card .current-song .controls button{
+
  
   margin: 25px;
   font-size: 20px;
