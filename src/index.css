@@ -142,7 +142,7 @@ body .card .current-song .controls {
 body .card .current-song .controls button {
   color: chartreuse;
   border-radius: 50%;
-  margin:  30px;
+  margin:  50px;
   font-size: 65px;
   text-align: center;
   -webkit-transition: 0.2s;
