@@ -184,7 +184,7 @@ body .card .play-list {
   -webkit-box-direction: normal;
           flex-direction: column;
   padding: 10px;
-  height: 500px;
+  height: 750px;
   overflow-y: scroll;
 }
 body .card .play-list .track {
