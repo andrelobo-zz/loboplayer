@@ -39,8 +39,8 @@ body .card .current-song {
  height: 100%;
   padding: 20px 0px;
   border-radius: 20px;
-  color: #071739;
-  background: red;
+  color: chartreuse;
+  background: #274684;
 }
 body .card .current-song audio {
   display: none;
