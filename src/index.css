@@ -120,7 +120,7 @@ body .card .current-song #timeline .hover-playhead::before {
   position: absolute;
   top: -30px;
   right: -23px;
-  width: 40px;
+  width: 80px;
   padding: 3px;
   text-align: center;
   color: white;
@@ -134,9 +134,9 @@ body .card .current-song #timeline .hover-playhead::after {
   position: absolute;
   top: -8px;
   right: -8px;
-  border-top: 8px solid #274684;
-  border-left: 8px solid transparent;
-  border-right: 8px solid transparent;
+  border-top: 16px solid #274684;
+  border-left: 16px solid transparent;
+  border-right: 16px solid transparent;
 }
 body .card .current-song .controls {
   margin-top: 10px;
